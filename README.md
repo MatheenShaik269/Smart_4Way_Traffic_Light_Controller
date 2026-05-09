@@ -60,11 +60,13 @@ The system ensures **safe, efficient, and prioritized traffic control** under di
 
 ## ⏱️ Timing Parameters
 
-```verilog
+
 T_GREEN     = 8;
 T_YELLOW    = 3;
 T_PED       = 5;
 T_EMERGENCY = 6;
+
+
 
 ---
 
