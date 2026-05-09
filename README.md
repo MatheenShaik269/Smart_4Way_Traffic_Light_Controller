@@ -99,7 +99,7 @@ The testbench verifies multiple real-world scenarios using tasks:
 
 ## 📊 Simulation Output
 🔹 Waveform
-![Waveform](images/waveform.png)
+![Waveform](image/waveform.png)
 
 ---
 ## TCL Console Output
