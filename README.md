@@ -71,7 +71,7 @@ T_EMERGENCY = 6;
 ---
 
 ## 📂 Project Structure
-     ```text
+```text
 traffic-light-fsm/
 │
 ├── traffic_light_controller.v       # RTL Design
@@ -80,7 +80,8 @@ traffic-light-fsm/
 ├── simulation_log.txt               #TCL Console output
 └── images/
     └── waveform.png                # Simulation waveform
-  ```  
+
+```
 
 ---
 
