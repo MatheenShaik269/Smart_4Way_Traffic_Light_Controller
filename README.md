@@ -80,6 +80,7 @@ traffic-light-fsm/
 ├── simulation_log.txt               #TCL Console output
 └── images/
     └── waveform.png                # Simulation waveform
+  ```  
 
 ---
 
