@@ -71,6 +71,7 @@ T_EMERGENCY = 6;
 ---
 
 ## 📂 Project Structure
+     ```text
 traffic-light-fsm/
 │
 ├── traffic_light_controller.v       # RTL Design
