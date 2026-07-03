@@ -120,7 +120,7 @@ module traffic_light_controller (
 
         next_state = state;
 
-        // 🚑 EMERGENCY OVERRIDE
+        // EMERGENCY OVERRIDE
         if (any_emergency)
             next_state = S_EMERGENCY;
 
